@@ -1,2 +1,2 @@
-chi text
-new chi text s
+chi text 4
+new chi text s 4
